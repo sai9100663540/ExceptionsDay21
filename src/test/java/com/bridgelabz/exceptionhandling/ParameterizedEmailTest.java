@@ -33,3 +33,4 @@ public class ParameterizedEmailTest {
         assertEquals(this.expected, result);
     }
 }
+
